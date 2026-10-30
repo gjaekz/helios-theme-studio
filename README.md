@@ -2,6 +2,7 @@
 
 A portable Windows editor for making your own Helios themes without editing QSS by hand.
 
+- Use Palettegen.dll to turn a Color Hunt palette PNG into balanced theme colors, with Undo/Redo.
 - Start from Dark or another preset; edit eight main colors or fine-tune individual elements.
 - Add wallpapers, adjust image visibility and review estimated readability fixes.
 - Experiment with approximate live previews, undo/redo and a mascot walkthrough.
@@ -10,7 +11,7 @@ A portable Windows editor for making your own Helios themes without editing QSS 
 
 ## Download
 
-Get the ZIP and SHA256SUMS.txt from [Releases](https://github.com/gjaekz/helios-theme-studio/releases).
+Get the **Helios-Theme-Studio-v…zip** app asset and **SHA256SUMS.txt** from [Releases](https://github.com/gjaekz/helios-theme-studio/releases). The automatically generated **Source code** archives contain this README, not the app.
 Extract the whole ZIP to a folder you can write to, for example C:\Tools\Helios Theme Studio or D:\Helios Theme Studio (not Program Files or another protected folder). Read README-FIRST.txt before running.
 
 Windows x64 and Microsoft WebView2 Runtime are required. The executable is unsigned;
