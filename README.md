@@ -11,7 +11,7 @@ A portable Windows editor for making your own Helios themes without editing QSS 
 ## Download
 
 Get the ZIP and SHA256SUMS.txt from [Releases](https://github.com/gjaekz/helios-theme-studio/releases).
-Extract the complete ZIP to a writable folder on **D:**. Read README-FIRST.txt before running.
+Extract the whole ZIP to a folder you can write to, for example C:\Tools\Helios Theme Studio or D:\Helios Theme Studio (not Program Files or another protected folder). Read README-FIRST.txt before running.
 
 Windows x64 and Microsoft WebView2 Runtime are required. The executable is unsigned;
 SmartScreen may warn. Verify the supplied SHA256 hash. GIFs can use more CPU/memory,
